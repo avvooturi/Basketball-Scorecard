@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    background-color: #0C4A6E;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h3 {
+    color: #EEEEEE;
+}
+
+div.link1 {
+    width: 117px;
+    height: 120px;
+    left: 100px;
+    top: 125px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    color: #F94F6D;
+    }
+    
+div.square1 {
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    width: 150px;
+    height: 110px;
+    background-color: black;
+    color: white;
+    font-family: monospace, fantasy;
+    color: #F94F6D;
+    font-style: normal;
+    font-weight: 400px;
+    left: 117px;
+    }
+
+div.link2 {
+    width: 117px;
+    height: 120px;
+    left: 100px;
+    top: 125px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    color: #F94F6D;
+    }
+    
+div.square2 {
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    width: 150px;
+    height: 110px;
+    background-color: black;
+    color: white;
+    font-family: monospace, fantasy;
+    color: #F94F6D;
+    font-style: normal;
+    font-weight: 400;
+    left: 495px;
+    }
+
+button {
+    color: #9AABD8;
+    background-color: #000000;
+    border: 5px;
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 2px;
+}
+
+div.button1 {
+    display: inline-block;
+    position: left;
+    fill: blue;
+    background-color: #000000;
+    left: 100px;
+}
+
+div.button2 {
+    display: inline-block;
+    position: middle;
+    background-color: #000000;
+}
+
+div.button3 {
+    display: inline-block;
+    position: right;
+    background-color: #000000;
+}
