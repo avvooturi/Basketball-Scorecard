@@ -14,10 +14,7 @@ h3 {
 }
 
 div.link1 {
-    width: 117px;
     height: 120px;
-    left: 100px;
-    top: 125px;
     font-style: normal;
     font-weight: 400;
     font-size: 90px;
@@ -27,8 +24,6 @@ div.link1 {
     
 div.square1 {
     text-align: center;
-    margin: auto;
-    position: absolute;
     width: 150px;
     height: 110px;
     background-color: black;
@@ -37,14 +32,10 @@ div.square1 {
     color: #F94F6D;
     font-style: normal;
     font-weight: 400px;
-    left: 117px;
     }
 
 div.link2 {
-    width: 117px;
     height: 120px;
-    left: 100px;
-    top: 125px;
     font-style: normal;
     font-weight: 400;
     font-size: 90px;
@@ -54,8 +45,6 @@ div.link2 {
     
 div.square2 {
     text-align: center;
-    margin: auto;
-    position: absolute;
     width: 150px;
     height: 110px;
     background-color: black;
@@ -64,7 +53,6 @@ div.square2 {
     color: #F94F6D;
     font-style: normal;
     font-weight: 400;
-    left: 495px;
     }
 
 button {
